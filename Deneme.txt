@@ -1,2 +1,2 @@
-print("Hello World");
 print("Geomerty Dash");
+print("bye world… şaka şaka");
